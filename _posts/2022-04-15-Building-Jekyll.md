@@ -24,3 +24,7 @@ layout: post
 - 引用时使用：
 `/repository-name/docs/assets/images`
 
+---
+2022.04.17 更新：
+- 最方便的编辑方式是：VS Code 直接 Open Remote，然后在 VS Code 中直接创建post（可以先在 Obsidian 写好后复制粘贴），然后，直接commit。
+
