@@ -2,7 +2,7 @@
 title: Building Jekyll
 author: Draco
 date: 2022-04-15
-category: code
+category: coding
 layout: post
 ---
 没想到 Jekyll + Github Pages 搞了三天才基本弄明白了，记录一些我常遇到的问题要点如下：
